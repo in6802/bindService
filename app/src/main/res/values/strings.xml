@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">bindService</string>
+    <string name="textViewMainTitle">Music Player</string>
+    <string name="buttonPlayer">Go Player</string>
 </resources>
