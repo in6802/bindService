@@ -18,9 +18,11 @@
         </activity>
 
         <service
-            android:name=".MyService"
+            android:name=".BackgroundMusicWithBindService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
+
+        <activity android:name=".MusicPlayer"></activity>
     </application>
 
 </manifest>

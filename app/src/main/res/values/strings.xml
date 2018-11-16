@@ -2,4 +2,6 @@
     <string name="app_name">bindService</string>
     <string name="textViewMainTitle">Music Player</string>
     <string name="buttonPlayer">Go Player</string>
+    <string name="buttonPlay">Play</string>
+    <string name="buttonStop">Stop</string>
 </resources>
